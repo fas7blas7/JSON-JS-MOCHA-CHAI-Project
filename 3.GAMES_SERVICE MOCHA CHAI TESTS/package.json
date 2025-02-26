@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chai": "^5.1.2",
+    "mocha": "^10.8.2"
+  },
+  "name": "exam-prep-2",
+  "version": "1.0.0",
+  "description": "exam prep2 tests gameService platform",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "gameService"
+  ],
+  "author": "Martin Kirov",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
